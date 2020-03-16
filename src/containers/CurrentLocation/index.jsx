@@ -27,7 +27,7 @@ class CurrentLocation extends Component {
     const { isLoading } = this.state
 
     if (isLoading) {
-      return <p>현재위치를 확인하는중입니다...</p>
+      return <p>현재 위치를 확인하는중입니다...</p>
     }
   }
 }
