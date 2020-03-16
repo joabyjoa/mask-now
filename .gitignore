@@ -1,5 +1,7 @@
 node_modules
 .DS_Store
+.yarn
+.pnp.js
 dist
 /build
 npm-debug.log*
