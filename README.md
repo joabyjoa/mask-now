@@ -14,6 +14,6 @@
 
 ## 💻 Tech Stacks
 
-| Reack | Storybook | Emotion | Kakao Map | PWA |
+| React | Storybook | Emotion | Kakao Map | PWA |
 | :---: | :-------: | ------- | --------- | --- |
 
