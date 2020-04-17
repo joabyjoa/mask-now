@@ -90,6 +90,13 @@ const setStyle = status => {
         color: ${tag[status]};
       }
     }
+    @media screen and (max-width: 401px) {
+      p {
+        span:nth-of-type(2) {
+          font-size: 0.8rem;
+        }
+      }
+    }
   `
   return style
 }

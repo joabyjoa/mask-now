@@ -13,6 +13,7 @@ const List = ({ data }) => {
 }
 
 const style = css`
+  flex: 1;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-gap: 1rem;
