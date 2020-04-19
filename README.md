@@ -6,7 +6,7 @@
 
 ![Mask Now](https://user-images.githubusercontent.com/50170375/79335227-a0388980-7f5c-11ea-9bd3-850935e48cf9.png)
 
-## 😎 Collaboraors
+## 😎 Collaborators
 
 | [joabyjoa](https://github.com/joabyjoa) | [pathas1126](https://github.com/pathas1126) | [suos3147](https://github.com/suos3147) |
 | :-------------------------------------: | :-----------------------------------------: | :-------------------------------------: |
