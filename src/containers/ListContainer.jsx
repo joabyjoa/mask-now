@@ -25,7 +25,7 @@ const ListContainer = ({ coords }) => {
 
   if (loading) return <Loader />
 
-  if (error || !response || !response.data.stores) return <p>리스트를 가져올 수 없습니다. 😧</p>
+  if (error || !response || !response.data.stores) return <Loader />
 
   const {
     data: { stores },
